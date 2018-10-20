@@ -25,10 +25,9 @@ We compute clasterization separately on first episodes,then on second episodes a
 
 Forecast.
 
-In order to select most similar shows in each group we use correlation between clear delivery of episodes for 
-
+In order to select most similar shows in each group we use correlation between clear delivery of episodes for
 this shows for all episodes starting from second.
 
-During prediction we compute distancies between episode and clusters centroids and choosing the closest one  and then perfom correlation 
+During prediction we compute distances between episode and clusters centroids and choosing the closest one  and then perfom correlation 
 
 analisys.
