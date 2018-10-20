@@ -29,5 +29,4 @@ In order to select most similar shows in each group we use correlation between c
 this shows for all episodes starting from second.
 
 During prediction we compute distances between episode and clusters centroids and choosing the closest one  and then perfom correlation 
-
 analisys.
